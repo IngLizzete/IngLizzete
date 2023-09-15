@@ -1,4 +1,10 @@
-<p align="center"> Hi 👋, I'm <a href="https://www.tiktok.com/@emoaitech?_t=8fhUJrLEJFN&_r=1" <br> Landy Lerma</a> </p>
+<h1 align="center"><b>Hi , I'm Landy Lerma </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Landy+Lerma..&hearts;++;Industrial+Engineer,;And,;Specialist+in+Artificial+Intelligence,;Advanced+Machine+Learning+Student,;Active+Learner/Researcher,;Love+to+learn+..<3"></a>
+</p>
+
+
+<br>
 
 <div style="header" align="center">
     <img src="https://github.com/IngLizzete/assets/blob/main/banner_git.png?raw=true" width="600" />
@@ -63,4 +69,12 @@ ________________________________________________________________________________
 </div>
 
 ____________________________________________________________________________________________________________________________________________
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+____________________________________________________________________________________________________________________________________________
+
 
